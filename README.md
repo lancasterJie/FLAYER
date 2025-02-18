@@ -1,6 +1,5 @@
 # Introduction
-
-Source code for "FLAYER: Optimizing Personalized Federated Learning through Adaptive Layer-Wise Learning".
+This is the implementation of our paper "FLAYER: Optimizing Personalized Federated Learning through Adaptive Layer-Wise Learning".
 
 # Environments
 
